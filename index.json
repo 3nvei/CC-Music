@@ -17,6 +17,14 @@
       "speed": 1,
       "file":"https://github.com/3nvei/CC-Music/raw/main/Houdini.dfpwm",
       "time": 227
+    },
+    {
+      "type":"song",
+      "name":"We are Number One",
+      "author": "Lazy Town",
+      "speed": 1,
+      "file":"https://github.com/3nvei/CC-Music/raw/main/wearenumberone.dfpwm",
+      "time": 227
     }
   ]
 }
